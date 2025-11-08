@@ -2,7 +2,7 @@
 
 **Bistro Bliss** – Modern and responsive restaurant website built with **React** and **Tailwind CSS**, featuring a clean design, interactive menu, and a contact form integrated via **EmailJS**.  
 
-**Live Demo:** [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)  
+**Live Demo:** [https://bistro-bliss-git-main-ilhame-sadiks-projects.vercel.app/](https://bistro-bliss-git-main-ilhame-sadiks-projects.vercel.app/)  
 
 ---
 
@@ -37,4 +37,4 @@ The contact form uses **EmailJS** to send messages directly without a backend.
 
 The project is deployed on **Vercel** with automatic builds from GitHub.  
 
-**Live Demo:** [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+**Live Demo:** [https://bistro-bliss-git-main-ilhame-sadiks-projects.vercel.app/](https://bistro-bliss-git-main-ilhame-sadiks-projects.vercel.app/)
