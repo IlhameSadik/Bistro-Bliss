@@ -1,6 +1,5 @@
 import React from "react";
 import img from "../assets/img/hero2.jpg";
-import Button from "../layouts/Button";
 
 const About = () => {
   return (
