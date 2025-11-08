@@ -26,11 +26,10 @@ The contact form uses **EmailJS** to send messages directly without a backend.
 
 ## Technologies Used
 
-- **React** – Frontend UI framework  
+- **React js** – Frontend UI framework  
 - **Tailwind CSS** – Utility-first styling  
 - **EmailJS** – Contact form submission  
 - **Vercel** – Deployment platform  
-- **React Icons** – UI icons  
 
 ---
 
